@@ -1,3 +1,58 @@
+🍵 MATCHA Animated Website Concept
+
+A premium modern website concept designed to showcase immersive storytelling using motion UI and minimal design principles.
+
+🚀 Features
+
+Fully animated scroll experience
+
+Minimal dark luxury UI
+
+Motion-based storytelling sections
+
+Smooth micro interactions
+
+Brand focused typography
+
+Responsive modern layout
+
+Performance optimized animations
+
+🎨 Design Focus
+
+This project explores how animation, spacing, and typography can elevate brand perception and user engagement.
+
+🛠 Tech Stack
+
+Tailwind / Typescript (Nextjs)
+
+GSAP / Framer Motion (If used)
+
+Responsive UI System
+
+📌 Use Case
+
+Portfolio project demonstrating modern UI/UX trends and advanced front-end animation techniques.
+
+💼 Author
+
+Muhammed Asad
+Graphic Designer & Web & App Developer
+
+web-design
+ui-design
+frontend
+animation
+modern-ui
+portfolio-project
+landing-page
+motion-ui
+interactive-design
+
+Did you want to see "matcha website" https://matcha-website-murex.vercel.app
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
