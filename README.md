@@ -65,3 +65,101 @@ MATCHA addresses these issues by:
 ---
 
 ## 🏗 Frontend Architecture
+
+User Interaction (Scroll/Input)
+↓
+Animation Controller (GSAP)
+↓
+Component Layer (Next.js)
+↓
+Rendering Layer (DOM + GPU)
+
+
+> Principle: **UI renders state, animation controls experience**
+
+---
+
+## 🚀 Features
+
+- Scroll-driven storytelling experience  
+- Motion-based section transitions  
+- Minimal dark luxury UI  
+- Micro-interactions for user feedback  
+- Fully responsive design  
+- Optimized animation performance  
+
+---
+
+## 🛠 Tech Stack
+
+| Category        | Technology |
+|----------------|-----------|
+| Framework      | Next.js (App Router) |
+| Language       | TypeScript |
+| Styling        | Tailwind CSS |
+| Animation      | GSAP, Framer Motion |
+| Deployment     | Vercel |
+
+---
+
+## 📂 Project Structure
+
+app/
+├── page.tsx # Main landing page
+├── components/ # UI components
+├── animations/ # Motion logic
+├── styles/ # Global styles
+
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/your-username/matcha-website.git
+cd matcha-website
+2. Install Dependencies
+npm install
+3. Run Development Server
+npm run dev
+```
+Open in browser:
+
+http://localhost:3000
+
+📊 Performance Considerations
+
+Smooth 60 FPS animations
+Reduced layout shifts (CLS optimization)
+Efficient DOM updates
+Optimized font loading using next/font
+
+🧪 Tradeoffs & Decisions
+
+Decision	Reason
+GSAP over CSS animations	Better timeline control
+Framer Motion (limited)	Lightweight UI animations
+Tailwind CSS	Faster and consistent styling
+App Router	Scalable structure
+
+🔍 What This Project Demonstrates
+
+Scalable frontend system design
+Strong understanding of browser rendering
+Performance-focused animation handling
+Clean and maintainable architecture
+Balance between design and engineering
+
+💼 Suitable Roles
+
+Frontend Engineer
+UI Engineer
+Creative Developer
+Interaction Engineer
+
+👨‍💻 Author
+
+Muhammed Asad
+Graphic Designer • Web & App Developer
